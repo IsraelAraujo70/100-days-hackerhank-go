@@ -5,16 +5,16 @@
 
 ## Estatísticas
 
-- **Dias cumpridos**: 0/100
-- **Problemas resolvidos**: 0/75 (mínimo)
-- **Streak atual**: 0
-- **Última atualização**: -
+- **Dias cumpridos**: 1/100
+- **Problemas resolvidos**: 1/75 (mínimo)
+- **Streak atual**: 1
+- **Última atualização**: 2025-08-15
 
 ## Progresso por Dia
 
 | Dia | Data | Plataforma | Problema | Dificuldade | Código | Resultado | Tempo | Notas |
 |-----|------|------------|----------|-------------|--------|-----------|--------|-------|
-| 01  | -    | -          | -        | -           | -      | ⏳         | -      | -     |
+| 01  | 2025-08-15 | HR         | Simple Array Sum | 🟢          | days/day01-simple-array-sum/main.go | ✅        | -      | Aprendi a omitir o índice no `for range` (ex.: `for _, v := range ar`). Agradecimentos ao Hitesh Choudhary. |
 | 02  | -    | -          | -        | -           | -      | ⏳         | -      | -     |
 | 03  | -    | -          | -        | -           | -      | ⏳         | -      | -     |
 | 04  | -    | -          | -        | -           | -      | ⏳         | -      | -     |
@@ -55,7 +55,7 @@
 ## Problemas por Categoria
 
 ### Arrays/Strings
-- [ ] Dia X: Problema Y
+- [ ] Dia 1: Problema simple-array-sum
 
 ### Matemática
 - [ ] Dia X: Problema Y

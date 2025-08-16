@@ -4,7 +4,7 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "new-day": "bun run scripts/new-day.sh"
+    "new-day": "bash scripts/new-day.sh"
   },
   "devDependencies": {
     "@types/bun": "latest"

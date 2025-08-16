@@ -1,0 +1,15 @@
+{
+  "name": "100-days-hackerhank-go",
+  "module": "main.go",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "new-day": "bun run scripts/new-day.sh"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}

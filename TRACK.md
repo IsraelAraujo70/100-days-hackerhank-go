@@ -5,17 +5,17 @@
 
 ## Estatísticas
 
-- **Dias cumpridos**: 1/100
-- **Problemas resolvidos**: 1/75 (mínimo)
-- **Streak atual**: 1
-- **Última atualização**: 2025-08-15
+- **Dias cumpridos**: 2/100
+- **Problemas resolvidos**: 2/75 (mínimo)
+- **Streak atual**: 2
+- **Última atualização**: 2025-08-16
 
 ## Progresso por Dia
 
 | Dia | Data | Plataforma | Problema | Dificuldade | Código | Resultado | Tempo | Notas |
 |-----|------|------------|----------|-------------|--------|-----------|--------|-------|
 | 01  | 2025-08-15 | HR         | Simple Array Sum | 🟢          | days/day01-simple-array-sum/main.go | ✅        | -      | Aprendi a omitir o índice no `for range` (ex.: `for _, v := range ar`). Agradecimentos ao Hitesh Choudhary. |
-| 02  | -    | -          | -        | -           | -      | ⏳         | -      | -     |
+| 02  | 2025-08-16 | HR         | Compare the Triplets | 🟢          | days/day02-compare-the-triplets/main.go | ✅        | -      | Implementei comparação de arrays usando range com índice. Algoritmo O(1) para comparar triplas e contar pontos. |
 | 03  | -    | -          | -        | -           | -      | ⏳         | -      | -     |
 | 04  | -    | -          | -        | -           | -      | ⏳         | -      | -     |
 | 05  | -    | -          | -        | -           | -      | ⏳         | -      | -     |
@@ -55,7 +55,8 @@
 ## Problemas por Categoria
 
 ### Arrays/Strings
-- [ ] Dia 1: Problema simple-array-sum
+- [x] Dia 1: Simple Array Sum
+- [x] Dia 2: Compare the Triplets
 
 ### Matemática
 - [ ] Dia X: Problema Y

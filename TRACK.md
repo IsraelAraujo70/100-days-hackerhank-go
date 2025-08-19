@@ -5,10 +5,10 @@
 
 ## Estatísticas
 
-- **Dias cumpridos**: 4/100
-- **Problemas resolvidos**: 4/75 (mínimo)
-- **Streak atual**: 4
-- **Última atualização**: 2025-08-18
+- **Dias cumpridos**: 5/100
+- **Problemas resolvidos**: 5/75 (mínimo)
+- **Streak atual**: 5
+- **Última atualização**: 2025-08-19
 
 ## Progresso por Dia
 
@@ -18,7 +18,7 @@
 | 02  | 2025-08-16 | HR         | Compare the Triplets | 🟢          | days/day02-compare-the-triplets/main.go | ✅        | -      | Implementei comparação de arrays usando range com índice. Algoritmo O(1) para comparar triplas e contar pontos. |
 | 03  | 2025-08-17 | HR         | A Very Big Sum | 🟢          | days/day03-a-very-big-sum/main.go | ✅        | -      | Aprendi sobre overflow de int32 e a importância de usar int64 para números grandes. Padrão `for _, v := range` novamente aplicado. |
 | 04  | 2025-08-18 | HR         | Diagonal Difference | 🟢          | days/day04-diagonal-difference/main.go | ✅        | -      | Aprendi sobre matrizes 2D em Go e acesso a diagonais. Me confundi com formato da entrada - achei que seria nested array mas era só tamanho + linhas. |
-| 05  | -    | -          | -        | -           | -      | ⏳         | -      | -     |
+| 05  | 2025-08-19 | HR         | Plus Minus           | 🟢          | days/day05-plus-minus/main.go | ✅        | -      | Ratios de positivos/negativos/zeros; impressão com 6 casas decimais. 
 | 06  | -    | -          | -        | -           | -      | ⏳         | -      | -     |
 | 07  | -    | -          | -        | -           | -      | ⏳         | -      | -     |
 | 08  | -    | -          | -        | -           | -      | ⏳         | -      | -     |

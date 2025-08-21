@@ -5,10 +5,10 @@
 
 ## Estatísticas
 
-- **Dias cumpridos**: 6/100
-- **Problemas resolvidos**: 6/75 (mínimo)
-- **Streak atual**: 6
-- **Última atualização**: 2025-08-20
+- **Dias cumpridos**: 7/100
+- **Problemas resolvidos**: 7/75 (mínimo)
+- **Streak atual**: 7
+- **Última atualização**: 2025-08-21
 
 ## Progresso por Dia
 
@@ -20,7 +20,7 @@
 | 04  | 2025-08-18 | HR         | Diagonal Difference | 🟢          | days/day04-diagonal-difference/main.go | ✅        | -      | Aprendi sobre matrizes 2D em Go e acesso a diagonais. Me confundi com formato da entrada - achei que seria nested array mas era só tamanho + linhas. |
 | 05  | 2025-08-19 | HR         | Plus Minus           | 🟢          | days/day05-plus-minus/main.go | ✅        | -      | Ratios de positivos/negativos/zeros; impressão com 6 casas decimais. 
 | 06  | 2025-08-20 | HR         | Staircase | 🟢          | days/day06-staircase/main.go | ✅        | -      | Aprendi `strings.Repeat()` para gerar strings repetidas. Problema de formatação/impressão - função não retorna valor, apenas imprime. |
-| 07  | -    | -          | -        | -           | -      | ⏳         | -      | -     |
+| 07  | 2025-08-21 | HR         | Mini-Max Sum | 🟢          | days/day07-mini-max-sum/main.go | ✅        | -      | Otimização O(n) vs O(n log n) - evitei sort e fiz em uma passagem. Sempre pensar em complexidade! |
 | 08  | -    | -          | -        | -           | -      | ⏳         | -      | -     |
 | 09  | -    | -          | -        | -           | -      | ⏳         | -      | -     |
 | 10  | -    | -          | -        | -           | -      | ⏳         | -      | -     |
@@ -59,7 +59,9 @@
 - [x] Dia 2: Compare the Triplets
 - [x] Dia 3: A Very Big Sum
 - [x] Dia 4: Diagonal Difference
+- [x] Dia 5: Plus Minus
 - [x] Dia 6: Staircase
+- [x] Dia 7: Mini-Max Sum
 
 ### Matemática
 - [ ] Dia X: Problema Y

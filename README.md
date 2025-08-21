@@ -10,9 +10,9 @@
 
 ## Progresso
 
-- **Dias cumpridos**: 5/100
-- **Problemas resolvidos**: 5/75 (mínimo)
-- **Streak atual**: 5
+- **Dias cumpridos**: 6/100
+- **Problemas resolvidos**: 6/75 (mínimo)
+- **Streak atual**: 6
 
 [📊 Ver progresso detalhado em TRACK.md](./TRACK.md)
 

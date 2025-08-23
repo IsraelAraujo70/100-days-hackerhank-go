@@ -5,10 +5,10 @@
 
 ## Estatísticas
 
-- **Dias cumpridos**: 7/100
-- **Problemas resolvidos**: 7/75 (mínimo)
-- **Streak atual**: 7
-- **Última atualização**: 2025-08-21
+- **Dias cumpridos**: 8/100
+- **Problemas resolvidos**: 8/75 (mínimo)
+- **Streak atual**: 8
+- **Última atualização**: 2025-08-23
 
 ## Progresso por Dia
 
@@ -21,7 +21,7 @@
 | 05  | 2025-08-19 | HR         | Plus Minus           | 🟢          | days/day05-plus-minus/main.go | ✅        | -      | Ratios de positivos/negativos/zeros; impressão com 6 casas decimais. 
 | 06  | 2025-08-20 | HR         | Staircase | 🟢          | days/day06-staircase/main.go | ✅        | -      | Aprendi `strings.Repeat()` para gerar strings repetidas. Problema de formatação/impressão - função não retorna valor, apenas imprime. |
 | 07  | 2025-08-21 | HR         | Mini-Max Sum | 🟢          | days/day07-mini-max-sum/main.go | ✅        | -      | Otimização O(n) vs O(n log n) - evitei sort e fiz em uma passagem. Sempre pensar em complexidade! |
-| 08  | -    | -          | -        | -           | -      | ⏳         | -      | -     |
+| 08  | 2025-08-23 | HR         | Birthday Cake Candles | 🟢          | days/day08-birthday-cake-candles/main.go | ✅        | -      | Problema simples de busca por máximo e contagem. Abordagem de duas passadas pelo array é clara e eficiente. |
 | 09  | -    | -          | -        | -           | -      | ⏳         | -      | -     |
 | 10  | -    | -          | -        | -           | -      | ⏳         | -      | -     |
 
@@ -62,6 +62,7 @@
 - [x] Dia 5: Plus Minus
 - [x] Dia 6: Staircase
 - [x] Dia 7: Mini-Max Sum
+- [x] Dia 8: Birthday Cake Candles
 
 ### Matemática
 - [ ] Dia X: Problema Y

@@ -5,9 +5,9 @@
 
 ## Estatísticas
 
-- **Dias cumpridos**: 9/100
-- **Problemas resolvidos**: 9/75 (mínimo)
-- **Streak atual**: 9
+- **Dias cumpridos**: 10/100
+- **Problemas resolvidos**: 10/75 (mínimo)
+- **Streak atual**: 10
 - **Última atualização**: 2025-08-24
 
 ## Progresso por Dia
@@ -23,7 +23,8 @@
 | 07  | 2025-08-21 | HR         | Mini-Max Sum | 🟢          | days/day07-mini-max-sum/main.go | ✅        | -      | Otimização O(n) vs O(n log n) - evitei sort e fiz em uma passagem. Sempre pensar em complexidade! |
 | 08  | 2025-08-23 | HR         | Birthday Cake Candles | 🟢          | days/day08-birthday-cake-candles/main.go | ✅        | -      | Problema simples de busca por máximo e contagem. Abordagem de duas passadas pelo array é clara e eficiente. |
 | 09  | 2025-08-24 | HR         | Grading Students | 🟢          | days/day09-grading/main.go | ✅        | -      | Lógica de arredondamento com módulo. Fórmula `-v%5 + 5` para calcular próximo múltiplo de 5. Condições múltiplas no if. |
-| 10  | -    | -          | -        | -           | -      | ⏳         | -      | -     |
+| 10  | 2025-08-24 | HR         | CamelCase | 🟢          | days/day10-camelcase/main.go | ✅        | -      | Uso do pacote `unicode` para verificar caracteres maiúsculos. Conversão string para `[]rune` para Unicode. Contagem simples: cada maiúscula = nova palavra. |
+| 11  | -    | -          | -        | -           | -      | ⏳         | -      | -     |
 
 <!-- Continue até o dia 100... -->
 
@@ -64,6 +65,7 @@
 - [x] Dia 7: Mini-Max Sum
 - [x] Dia 8: Birthday Cake Candles
 - [x] Dia 9: Grading Students
+- [x] Dia 10: CamelCase
 
 ### Matemática
 - [ ] Dia X: Problema Y

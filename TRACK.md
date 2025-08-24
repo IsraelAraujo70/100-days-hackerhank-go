@@ -5,10 +5,10 @@
 
 ## Estatísticas
 
-- **Dias cumpridos**: 8/100
-- **Problemas resolvidos**: 8/75 (mínimo)
-- **Streak atual**: 8
-- **Última atualização**: 2025-08-23
+- **Dias cumpridos**: 9/100
+- **Problemas resolvidos**: 9/75 (mínimo)
+- **Streak atual**: 9
+- **Última atualização**: 2025-08-24
 
 ## Progresso por Dia
 
@@ -22,7 +22,7 @@
 | 06  | 2025-08-20 | HR         | Staircase | 🟢          | days/day06-staircase/main.go | ✅        | -      | Aprendi `strings.Repeat()` para gerar strings repetidas. Problema de formatação/impressão - função não retorna valor, apenas imprime. |
 | 07  | 2025-08-21 | HR         | Mini-Max Sum | 🟢          | days/day07-mini-max-sum/main.go | ✅        | -      | Otimização O(n) vs O(n log n) - evitei sort e fiz em uma passagem. Sempre pensar em complexidade! |
 | 08  | 2025-08-23 | HR         | Birthday Cake Candles | 🟢          | days/day08-birthday-cake-candles/main.go | ✅        | -      | Problema simples de busca por máximo e contagem. Abordagem de duas passadas pelo array é clara e eficiente. |
-| 09  | -    | -          | -        | -           | -      | ⏳         | -      | -     |
+| 09  | 2025-08-24 | HR         | Grading Students | 🟢          | days/day09-grading/main.go | ✅        | -      | Lógica de arredondamento com módulo. Fórmula `-v%5 + 5` para calcular próximo múltiplo de 5. Condições múltiplas no if. |
 | 10  | -    | -          | -        | -           | -      | ⏳         | -      | -     |
 
 <!-- Continue até o dia 100... -->
@@ -63,6 +63,7 @@
 - [x] Dia 6: Staircase
 - [x] Dia 7: Mini-Max Sum
 - [x] Dia 8: Birthday Cake Candles
+- [x] Dia 9: Grading Students
 
 ### Matemática
 - [ ] Dia X: Problema Y

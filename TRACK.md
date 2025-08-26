@@ -5,10 +5,10 @@
 
 ## Estatísticas
 
-- **Dias cumpridos**: 10/100
-- **Problemas resolvidos**: 10/75 (mínimo)
-- **Streak atual**: 10
-- **Última atualização**: 2025-08-24
+- **Dias cumpridos**: 11/100
+- **Problemas resolvidos**: 11/75 (mínimo)
+- **Streak atual**: 11
+- **Última atualização**: 2025-08-26
 
 ## Progresso por Dia
 
@@ -24,7 +24,7 @@
 | 08  | 2025-08-23 | HR         | Birthday Cake Candles | 🟢          | days/day08-birthday-cake-candles/main.go | ✅        | -      | Problema simples de busca por máximo e contagem. Abordagem de duas passadas pelo array é clara e eficiente. |
 | 09  | 2025-08-24 | HR         | Grading Students | 🟢          | days/day09-grading/main.go | ✅        | -      | Lógica de arredondamento com módulo. Fórmula `-v%5 + 5` para calcular próximo múltiplo de 5. Condições múltiplas no if. |
 | 10  | 2025-08-24 | HR         | CamelCase | 🟢          | days/day10-camelcase/main.go | ✅        | -      | Uso do pacote `unicode` para verificar caracteres maiúsculos. Conversão string para `[]rune` para Unicode. Contagem simples: cada maiúscula = nova palavra. |
-| 11  | -    | -          | -        | -           | -      | ⏳         | -      | -     |
+| 11  | 2025-08-26 | HR         | Time Conversion | 🟢          | days/day11-time-conversion/main.go | ✅        | -      | Aprendi sobre layouts de time em Go. Uso de `time.Parse` e `time.Format` com layouts específicos. Go usa tempo de referência "Mon Jan 2 15:04:05 MST 2006". |
 
 <!-- Continue até o dia 100... -->
 
@@ -66,6 +66,7 @@
 - [x] Dia 8: Birthday Cake Candles
 - [x] Dia 9: Grading Students
 - [x] Dia 10: CamelCase
+- [x] Dia 11: Time Conversion
 
 ### Matemática
 - [ ] Dia X: Problema Y

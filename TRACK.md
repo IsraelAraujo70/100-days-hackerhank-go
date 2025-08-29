@@ -5,10 +5,10 @@
 
 ## Estatísticas
 
-- **Dias cumpridos**: 13/100
-- **Problemas resolvidos**: 13/75 (mínimo)
-- **Streak atual**: 13
-- **Última atualização**: 2025-08-27
+- **Dias cumpridos**: 14/100
+- **Problemas resolvidos**: 14/75 (mínimo)
+- **Streak atual**: 14
+- **Última atualização**: 2025-08-28
 
 ## Progresso por Dia
 
@@ -27,6 +27,7 @@
 | 11  | 2025-08-26 | HR         | Time Conversion | 🟢          | days/day11-time-conversion/main.go | ✅        | -      | Aprendi sobre layouts de time em Go. Uso de `time.Parse` e `time.Format` com layouts específicos. Go usa tempo de referência "Mon Jan 2 15:04:05 MST 2006". |
 | 12  | 2025-08-27 | HR         | Counting Valleys | 🟢          | days/day12-counting-valleys/main.go | ✅        | -      | Algoritmo de tracking de estado para contar vales. Contagem precisa ao sair do vale (`altitude == 0 && v == 'U'`). Uso de `[]rune(path)` para Unicode. |
 | 13  | 2025-08-27 | HR         | The Birthday Bar | 🟢          | days/day13-the-birthday-bar/main.go | ✅        | -      | Problema de sliding window. Solução O(n*m) com loops aninhados. Reforçou a importância dos limites de loop corretos. |
+| 14  | 2025-08-28 | HR         | Between Two Sets | 🟢          | days/day14-between-two-sets/main.go | ✅        | -      | Brute-force check in range `[max(a), min(b)]`. Reinforced concepts of factors/multiples. |
 
 <!-- Continue até o dia 100... -->
 
@@ -71,6 +72,7 @@
 - [x] Dia 11: Time Conversion
 - [x] Dia 12: Counting Valleys
 - [x] Dia 13: The Birthday Bar
+- [x] Dia 14: Between Two Sets
 
 ### Matemática
 - [ ] Dia X: Problema Y

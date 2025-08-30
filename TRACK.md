@@ -5,10 +5,10 @@
 
 ## Estatísticas
 
-- **Dias cumpridos**: 15/100
-- **Problemas resolvidos**: 15/75 (mínimo)
-- **Streak atual**: 15
-- **Última atualização**: 2025-08-29
+- **Dias cumpridos**: 16/100
+- **Problemas resolvidos**: 16/75 (mínimo)
+- **Streak atual**: 16
+- **Última atualização**: 2025-08-30
 
 ## Progresso por Dia
 
@@ -29,6 +29,7 @@
 | 13  | 2025-08-27 | HR         | The Birthday Bar | 🟢          | days/day13-the-birthday-bar/main.go | ✅        | -      | Problema de sliding window. Solução O(n*m) com loops aninhados. Reforçou a importância dos limites de loop corretos. |
 | 14  | 2025-08-28 | HR         | Between Two Sets | 🟢          | days/day14-between-two-sets/main.go | ✅        | -      | Brute-force check in range `[max(a), min(b)]`. Reinforced concepts of factors/multiples. |
 | 15  | 2025-08-29 | HR         | Day of the Programmer | 🟢          | days/day15-day-of-the-programmer/main.go | ✅        | -      | Lógica condicional para calendários Juliano/Gregoriano e o ano de transição de 1918. |
+| 16  | 2025-08-30 | HR         | Apple and Orange | 🟢          | days/day16-apple-and-orange/main.go | ✅        | -      | Iteração simples e lógica condicional. Complexidade O(m+n). |
 
 <!-- Continue até o dia 100... -->
 

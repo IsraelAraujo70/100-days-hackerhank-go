@@ -31,6 +31,7 @@
 | 15  | 2025-08-29 | HR         | Day of the Programmer | 🟢          | days/day15-day-of-the-programmer/main.go | ✅        | -      | Lógica condicional para calendários Juliano/Gregoriano e o ano de transição de 1918. |
 | 16  | 2025-08-30 | HR         | Apple and Orange | 🟢          | days/day16-apple-and-orange/main.go | ✅        | -      | Iteração simples e lógica condicional. Complexidade O(m+n). |
 | 17  | 2025-08-31 | HR         | Kangaroo | 🟢          | days/day17-kangaroo/main.go | ✅        | -      | Resolvido com uma abordagem matemática O(1). A chave é a equação `j = (x2 - x1) / (v1 - v2)`, onde `j` deve ser um inteiro não-negativo. |
+| 18  | 2025-09-01 | HR         | Breaking Best and Worst Records | 🟢          | days/day18-breaking-best-and-worst-records/main.go | ✅        | -      | Simple state tracking algorithm. Iterated through scores, keeping track of min/max and break counts. O(n) complexity. |
 
 <!-- Continue até o dia 100... -->
 

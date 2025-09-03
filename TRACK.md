@@ -5,10 +5,10 @@
 
 ## Estatísticas
 
-- **Dias cumpridos**: 16/100
-- **Problemas resolvidos**: 16/75 (mínimo)
-- **Streak atual**: 16
-- **Última atualização**: 2025-08-30
+- **Dias cumpridos**: 19/100
+- **Problemas resolvidos**: 19/75 (mínimo)
+- **Streak atual**: 19
+- **Última atualização**: 2025-09-02
 
 ## Progresso por Dia
 
@@ -32,6 +32,7 @@
 | 16  | 2025-08-30 | HR         | Apple and Orange | 🟢          | days/day16-apple-and-orange/main.go | ✅        | -      | Iteração simples e lógica condicional. Complexidade O(m+n). |
 | 17  | 2025-08-31 | HR         | Kangaroo | 🟢          | days/day17-kangaroo/main.go | ✅        | -      | Resolvido com uma abordagem matemática O(1). A chave é a equação `j = (x2 - x1) / (v1 - v2)`, onde `j` deve ser um inteiro não-negativo. |
 | 18  | 2025-09-01 | HR         | Breaking Best and Worst Records | 🟢          | days/day18-breaking-best-and-worst-records/main.go | ✅        | -      | Simple state tracking algorithm. Iterated through scores, keeping track of min/max and break counts. O(n) complexity. |
+| 19  | 2025-09-02 | HR         | Divisible Sum Pairs | 🟢          | days/day19-divisible-sum-pairs/main.go | ✅        | -      | Exercício de loops aninhados e operador módulo. Solução O(n^2) suficiente para as constraints. |
 
 <!-- Continue até o dia 100... -->
 
@@ -77,6 +78,11 @@
 - [x] Dia 12: Counting Valleys
 - [x] Dia 13: The Birthday Bar
 - [x] Dia 14: Between Two Sets
+- [x] Dia 15: Day of the Programmer
+- [x] Dia 16: Apple and Orange
+- [x] Dia 17: Kangaroo
+- [x] Dia 18: Breaking Best and Worst Records
+- [x] Dia 19: Divisible Sum Pairs
 
 ### Matemática
 - [ ] Dia X: Problema Y

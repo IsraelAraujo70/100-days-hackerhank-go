@@ -5,10 +5,10 @@
 
 ## Estatísticas
 
-- **Dias cumpridos**: 19/100
-- **Problemas resolvidos**: 19/75 (mínimo)
-- **Streak atual**: 19
-- **Última atualização**: 2025-09-02
+- **Dias cumpridos**: 20/100
+- **Problemas resolvidos**: 20/75 (mínimo)
+- **Streak atual**: 20
+- **Última atualização**: 2025-09-03
 
 ## Progresso por Dia
 
@@ -33,6 +33,7 @@
 | 17  | 2025-08-31 | HR         | Kangaroo | 🟢          | days/day17-kangaroo/main.go | ✅        | -      | Resolvido com uma abordagem matemática O(1). A chave é a equação `j = (x2 - x1) / (v1 - v2)`, onde `j` deve ser um inteiro não-negativo. |
 | 18  | 2025-09-01 | HR         | Breaking Best and Worst Records | 🟢          | days/day18-breaking-best-and-worst-records/main.go | ✅        | -      | Simple state tracking algorithm. Iterated through scores, keeping track of min/max and break counts. O(n) complexity. |
 | 19  | 2025-09-02 | HR         | Divisible Sum Pairs | 🟢          | days/day19-divisible-sum-pairs/main.go | ✅        | -      | Exercício de loops aninhados e operador módulo. Solução O(n^2) suficiente para as constraints. |
+| 20  | 2025-09-03 | HR         | Migratory Birds | 🟢          | days/day20-migratory-birds/main.go | ✅        | -      | Usei um array como mapa de frequência para contar as ocorrências. A iteração ordenada (1 a 5) garantiu o menor ID em caso de empate. O(n). |
 
 <!-- Continue até o dia 100... -->
 
@@ -83,6 +84,7 @@
 - [x] Dia 17: Kangaroo
 - [x] Dia 18: Breaking Best and Worst Records
 - [x] Dia 19: Divisible Sum Pairs
+- [x] Dia 20: Migratory Birds
 
 ### Matemática
 - [ ] Dia X: Problema Y

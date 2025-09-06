@@ -5,10 +5,10 @@
 
 ## Estatísticas
 
-- **Dias cumpridos**: 21/100
-- **Problemas resolvidos**: 21/75 (mínimo)
-- **Streak atual**: 21
-- **Última atualização**: 2025-09-04
+- **Dias cumpridos**: 22/100
+- **Problemas resolvidos**: 22/75 (mínimo)
+- **Streak atual**: 22
+- **Última atualização**: 2025-09-06
 
 ## Progresso por Dia
 
@@ -35,6 +35,7 @@
 | 19  | 2025-09-02 | HR         | Divisible Sum Pairs | 🟢          | days/day19-divisible-sum-pairs/main.go | ✅        | -      | Exercício de loops aninhados e operador módulo. Solução O(n^2) suficiente para as constraints. |
 | 20  | 2025-09-03 | HR         | Migratory Birds | 🟢          | days/day20-migratory-birds/main.go | ✅        | -      | Usei um array como mapa de frequência para contar as ocorrências. A iteração ordenada (1 a 5) garantiu o menor ID em caso de empate. O(n). |
 | 21  | 2025-09-04 | HR         | Sock Merchant (Sales by Match) | 🟢          | days/day21-sock-merchant/main.go | ✅        | -      | Mapa de frequência por cor e soma de floor(freq/2). O(n) tempo, O(k) espaço. |
+| 22  | 2025-09-06 | HR         | Bon Appetit | 🟢          | days/day22-bon-appetit/main.go | ✅        | -      | Soma dos itens exceto k, divide por 2 e compara com b; imprime diferença ou "Bon Appetit". |
 
 <!-- Continue até o dia 100... -->
 
@@ -87,6 +88,7 @@
 - [x] Dia 19: Divisible Sum Pairs
 - [x] Dia 20: Migratory Birds
 - [x] Dia 21: Sock Merchant
+- [x] Dia 22: Bon Appetit
 
 ### Matemática
 - [ ] Dia X: Problema Y

@@ -5,10 +5,10 @@
 
 ## Estatísticas
 
-- **Dias cumpridos**: 22/100
-- **Problemas resolvidos**: 22/75 (mínimo)
-- **Streak atual**: 22
-- **Última atualização**: 2025-09-06
+- **Dias cumpridos**: 23/100
+- **Problemas resolvidos**: 23/75 (mínimo)
+- **Streak atual**: 23
+- **Última atualização**: 2025-09-07
 
 ## Progresso por Dia
 
@@ -36,6 +36,8 @@
 | 20  | 2025-09-03 | HR         | Migratory Birds | 🟢          | days/day20-migratory-birds/main.go | ✅        | -      | Usei um array como mapa de frequência para contar as ocorrências. A iteração ordenada (1 a 5) garantiu o menor ID em caso de empate. O(n). |
 | 21  | 2025-09-04 | HR         | Sock Merchant (Sales by Match) | 🟢          | days/day21-sock-merchant/main.go | ✅        | -      | Mapa de frequência por cor e soma de floor(freq/2). O(n) tempo, O(k) espaço. |
 | 22  | 2025-09-06 | HR         | Bon Appetit | 🟢          | days/day22-bon-appetit/main.go | ✅        | -      | Soma dos itens exceto k, divide por 2 e compara com b; imprime diferença ou "Bon Appetit". |
+
+| 23  | 2025-09-07 | HR         | Drawing Book | 🟢          | days/day23-drawing-book/main.go | ✅        | -      | Fórmula: min(p/2, n/2 - p/2). Considera virar do início ou do fim. O(1) tempo e espaço. |
 
 <!-- Continue até o dia 100... -->
 
@@ -89,6 +91,7 @@
 - [x] Dia 20: Migratory Birds
 - [x] Dia 21: Sock Merchant
 - [x] Dia 22: Bon Appetit
+ - [x] Dia 23: Drawing Book
 
 ### Matemática
 - [ ] Dia X: Problema Y

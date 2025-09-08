@@ -5,10 +5,10 @@
 
 ## Estatísticas
 
-- **Dias cumpridos**: 24/100
-- **Problemas resolvidos**: 24/75 (mínimo)
-- **Streak atual**: 24
-- **Última atualização**: 2025-09-07
+- **Dias cumpridos**: 25/100
+- **Problemas resolvidos**: 25/75 (mínimo)
+- **Streak atual**: 25
+- **Última atualização**: 2025-09-08
 
 ## Progresso por Dia
 
@@ -40,6 +40,8 @@
 | 23  | 2025-09-07 | HR         | Drawing Book | 🟢          | days/day23-drawing-book/main.go | ✅        | -      | Fórmula: min(p/2, n/2 - p/2). Considera virar do início ou do fim. O(1) tempo e espaço. |
 
 | 24  | 2025-09-07 | HR         | Cats and a Mouse | 🟢          | days/day24-cats-and-a-mouse/main.go | ✅        | -      | Compare distâncias absolutas até o mouse: |x−z| vs |y−z|. Empate => "Mouse C". O(1) tempo e espaço. |
+
+| 25  | 2025-09-08 | HR         | Electronics Shop | 🟢          | days/day25-electronics-shop/main.go | ✅        | -      | Duplo loop para máximo <= orçamento. Simples e eficiente para constraints. |
 
 <!-- Continue até o dia 100... -->
 
@@ -95,6 +97,7 @@
 - [x] Dia 22: Bon Appetit
  - [x] Dia 23: Drawing Book
  - [x] Dia 24: Cats and a Mouse
+ - [x] Dia 25: Electronics Shop
 
 ### Matemática
 - [ ] Dia X: Problema Y

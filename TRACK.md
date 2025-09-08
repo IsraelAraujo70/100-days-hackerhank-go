@@ -5,9 +5,9 @@
 
 ## Estatísticas
 
-- **Dias cumpridos**: 23/100
-- **Problemas resolvidos**: 23/75 (mínimo)
-- **Streak atual**: 23
+- **Dias cumpridos**: 24/100
+- **Problemas resolvidos**: 24/75 (mínimo)
+- **Streak atual**: 24
 - **Última atualização**: 2025-09-07
 
 ## Progresso por Dia
@@ -38,6 +38,8 @@
 | 22  | 2025-09-06 | HR         | Bon Appetit | 🟢          | days/day22-bon-appetit/main.go | ✅        | -      | Soma dos itens exceto k, divide por 2 e compara com b; imprime diferença ou "Bon Appetit". |
 
 | 23  | 2025-09-07 | HR         | Drawing Book | 🟢          | days/day23-drawing-book/main.go | ✅        | -      | Fórmula: min(p/2, n/2 - p/2). Considera virar do início ou do fim. O(1) tempo e espaço. |
+
+| 24  | 2025-09-07 | HR         | Cats and a Mouse | 🟢          | days/day24-cats-and-a-mouse/main.go | ✅        | -      | Compare distâncias absolutas até o mouse: |x−z| vs |y−z|. Empate => "Mouse C". O(1) tempo e espaço. |
 
 <!-- Continue até o dia 100... -->
 
@@ -92,6 +94,7 @@
 - [x] Dia 21: Sock Merchant
 - [x] Dia 22: Bon Appetit
  - [x] Dia 23: Drawing Book
+ - [x] Dia 24: Cats and a Mouse
 
 ### Matemática
 - [ ] Dia X: Problema Y

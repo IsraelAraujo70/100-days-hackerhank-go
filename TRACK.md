@@ -5,10 +5,10 @@
 
 ## Estatísticas
 
-- **Dias cumpridos**: 25/100
-- **Problemas resolvidos**: 25/75 (mínimo)
-- **Streak atual**: 25
-- **Última atualização**: 2025-09-08
+- **Dias cumpridos**: 26/100
+- **Problemas resolvidos**: 26/75 (mínimo)
+- **Streak atual**: 26
+- **Última atualização**: 2025-09-09
 
 ## Progresso por Dia
 
@@ -42,6 +42,7 @@
 | 24  | 2025-09-07 | HR         | Cats and a Mouse | 🟢          | days/day24-cats-and-a-mouse/main.go | ✅        | -      | Compare distâncias absolutas até o mouse: |x−z| vs |y−z|. Empate => "Mouse C". O(1) tempo e espaço. |
 
 | 25  | 2025-09-08 | HR         | Electronics Shop | 🟢          | days/day25-electronics-shop/main.go | ✅        | -      | Duplo loop para máximo <= orçamento. Simples e eficiente para constraints. |
+| 26  | 2025-09-09 | HR         | The Hurdle Race | 🟢          | days/day26-the-hurdle-race/main.go | ✅        | -      | Máximo das alturas e diferença positiva: max(0, maxH - k). |
 
 <!-- Continue até o dia 100... -->
 
@@ -98,6 +99,7 @@
  - [x] Dia 23: Drawing Book
  - [x] Dia 24: Cats and a Mouse
  - [x] Dia 25: Electronics Shop
+ - [x] Dia 26: The Hurdle Race
 
 ### Matemática
 - [ ] Dia X: Problema Y

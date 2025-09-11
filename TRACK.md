@@ -5,10 +5,10 @@
 
 ## Estatísticas
 
-- **Dias cumpridos**: 26/100
-- **Problemas resolvidos**: 26/75 (mínimo)
-- **Streak atual**: 26
-- **Última atualização**: 2025-09-09
+- **Dias cumpridos**: 27/100
+- **Problemas resolvidos**: 27/75 (mínimo)
+- **Streak atual**: 27
+- **Última atualização**: 2025-09-11
 
 ## Progresso por Dia
 
@@ -43,6 +43,8 @@
 
 | 25  | 2025-09-08 | HR         | Electronics Shop | 🟢          | days/day25-electronics-shop/main.go | ✅        | -      | Duplo loop para máximo <= orçamento. Simples e eficiente para constraints. |
 | 26  | 2025-09-09 | HR         | The Hurdle Race | 🟢          | days/day26-the-hurdle-race/main.go | ✅        | -      | Máximo das alturas e diferença positiva: max(0, maxH - k). |
+
+| 27  | 2025-09-11 | HR         | Picking Numbers | 🟢          | days/day27-picking-numbers/main.go | ✅        | -      | Mapa de frequências e máximo de freq[v] + freq[v+1]. O(n) tempo, O(k) espaço. |
 
 <!-- Continue até o dia 100... -->
 
@@ -100,6 +102,7 @@
  - [x] Dia 24: Cats and a Mouse
  - [x] Dia 25: Electronics Shop
  - [x] Dia 26: The Hurdle Race
+ - [x] Dia 27: Picking Numbers
 
 ### Matemática
 - [ ] Dia X: Problema Y

@@ -5,9 +5,9 @@
 
 ## Estatísticas
 
-- **Dias cumpridos**: 27/100
-- **Problemas resolvidos**: 27/75 (mínimo)
-- **Streak atual**: 27
+- **Dias cumpridos**: 28/100
+- **Problemas resolvidos**: 28/75 (mínimo)
+- **Streak atual**: 28
 - **Última atualização**: 2025-09-11
 
 ## Progresso por Dia
@@ -45,6 +45,8 @@
 | 26  | 2025-09-09 | HR         | The Hurdle Race | 🟢          | days/day26-the-hurdle-race/main.go | ✅        | -      | Máximo das alturas e diferença positiva: max(0, maxH - k). |
 
 | 27  | 2025-09-11 | HR         | Picking Numbers | 🟢          | days/day27-picking-numbers/main.go | ✅        | -      | Mapa de frequências e máximo de freq[v] + freq[v+1]. O(n) tempo, O(k) espaço. |
+
+| 28  | 2025-09-11 | HR         | Climbing the Leaderboard | 🟡          | days/day28-climbing-the-leaderboard/main.go | ✅        | -      | Ranking denso: remove duplicados e usa ponteiro reverso (O(n+m)). |
 
 <!-- Continue até o dia 100... -->
 
@@ -103,6 +105,7 @@
  - [x] Dia 25: Electronics Shop
  - [x] Dia 26: The Hurdle Race
  - [x] Dia 27: Picking Numbers
+  - [x] Dia 28: Climbing the Leaderboard
 
 ### Matemática
 - [ ] Dia X: Problema Y

@@ -5,10 +5,10 @@
 
 ## Estatísticas
 
-- **Dias cumpridos**: 28/100
-- **Problemas resolvidos**: 28/75 (mínimo)
-- **Streak atual**: 28
-- **Última atualização**: 2025-09-11
+- **Dias cumpridos**: 29/100
+- **Problemas resolvidos**: 29/75 (mínimo)
+- **Streak atual**: 29
+- **Última atualização**: 2025-09-12
 
 ## Progresso por Dia
 
@@ -47,6 +47,8 @@
 | 27  | 2025-09-11 | HR         | Picking Numbers | 🟢          | days/day27-picking-numbers/main.go | ✅        | -      | Mapa de frequências e máximo de freq[v] + freq[v+1]. O(n) tempo, O(k) espaço. |
 
 | 28  | 2025-09-11 | HR         | Climbing the Leaderboard | 🟡          | days/day28-climbing-the-leaderboard/main.go | ✅        | -      | Ranking denso: remove duplicados e usa ponteiro reverso (O(n+m)). |
+
+| 29  | 2025-09-12 | HR         | Forming a Magic Square | 🟡          | days/day29-magic-square-forming/main.go | ✅        | -      | Brute-force sobre as 8 variantes de Lo Shu; custo mínimo por soma de diferenças absolutas. O(1). |
 
 <!-- Continue até o dia 100... -->
 
@@ -105,7 +107,8 @@
  - [x] Dia 25: Electronics Shop
  - [x] Dia 26: The Hurdle Race
  - [x] Dia 27: Picking Numbers
-  - [x] Dia 28: Climbing the Leaderboard
+ - [x] Dia 28: Climbing the Leaderboard
+ - [x] Dia 29: Forming a Magic Square
 
 ### Matemática
 - [ ] Dia X: Problema Y

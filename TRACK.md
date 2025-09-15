@@ -5,10 +5,10 @@
 
 ## Estatísticas
 
-- **Dias cumpridos**: 30/100
-- **Problemas resolvidos**: 30/75 (mínimo)
-- **Streak atual**: 30
-- **Última atualização**: 2025-09-13
+- **Dias cumpridos**: 31/100
+- **Problemas resolvidos**: 31/75 (mínimo)
+- **Streak atual**: 31
+- **Última atualização**: 2025-09-15
 
 ## Progresso por Dia
 
@@ -51,6 +51,8 @@
 | 29  | 2025-09-12 | HR         | Forming a Magic Square | 🟡          | days/day29-magic-square-forming/main.go | ✅        | -      | Brute-force sobre as 8 variantes de Lo Shu; custo mínimo por soma de diferenças absolutas. O(1). |
 
 | 30  | 2025-09-13 | HR         | Designer PDF Viewer | 🟢          | days/day30-designer-pdf-viewer/main.go | ✅        | -      | Área = (maior altura das letras da palavra) * len(word). Mapeamento `c - 'a'`. |
+
+| 31  | 2025-09-15 | HR         | Angry Professor | 🟢          | days/day31-angry-professor/main.go | ✅        | -      | Contar chegadas `<= 0`; se contagem < k, imprimir "YES" (cancelada), senão "NO". |
 
 <!-- Continue até o dia 100... -->
 
@@ -112,6 +114,7 @@
  - [x] Dia 28: Climbing the Leaderboard
  - [x] Dia 29: Forming a Magic Square
  - [x] Dia 30: Designer PDF Viewer
+ - [x] Dia 31: Angry Professor
 
 ### Matemática
 - [ ] Dia X: Problema Y

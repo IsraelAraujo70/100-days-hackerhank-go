@@ -5,10 +5,10 @@
 
 ## Estatísticas
 
-- **Dias cumpridos**: 33/100
-- **Problemas resolvidos**: 33/75 (mínimo)
-- **Streak atual**: 33
-- **Última atualização**: 2025-09-17
+- **Dias cumpridos**: 34/100
+- **Problemas resolvidos**: 34/75 (mínimo)
+- **Streak atual**: 34
+- **Última atualização**: 2025-09-18
 
 ## Progresso por Dia
 
@@ -55,6 +55,7 @@
 | 31  | 2025-09-15 | HR         | Angry Professor | 🟢          | days/day31-angry-professor/main.go | ✅        | -      | Contar chegadas `<= 0`; se contagem < k, imprimir "YES" (cancelada), senão "NO". |
 | 32  | 2025-09-16 | HR         | Beautiful Days at the Movies | 🟢          | days/day32-beautiful-days-at-the-movies/main.go | ✅        | -      | Diferença absoluta divisível por k; reverse feito com operações aritméticas. |
 | 33  | 2025-09-17 | HR         | Utopian Tree | 🟢          | days/day33-utopian-tree/main.go | ✅        | -      | Simulação direta alternando ciclos de primavera (dobro) e verão (+1). |
+| 34  | 2025-09-18 | HR         | Strange Advertising | 🟢          | days/day34-strange-advertising/main.go | ✅        | -      | Simulação de curtidas e compartilhamentos com divisão inteira por 2. |
 
 <!-- Continue até o dia 100... -->
 
@@ -118,7 +119,8 @@
  - [x] Dia 30: Designer PDF Viewer
  - [x] Dia 31: Angry Professor
  - [x] Dia 32: Beautiful Days at the Movies
- - [x] Dia 33: Utopian Tree
+- [x] Dia 33: Utopian Tree
+- [x] Dia 34: Strange Advertising
 
 ### Matemática
 - [ ] Dia X: Problema Y

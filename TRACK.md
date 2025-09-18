@@ -5,9 +5,9 @@
 
 ## Estatísticas
 
-- **Dias cumpridos**: 34/100
-- **Problemas resolvidos**: 34/75 (mínimo)
-- **Streak atual**: 34
+- **Dias cumpridos**: 35/100
+- **Problemas resolvidos**: 35/75 (mínimo)
+- **Streak atual**: 35
 - **Última atualização**: 2025-09-18
 
 ## Progresso por Dia
@@ -56,6 +56,7 @@
 | 32  | 2025-09-16 | HR         | Beautiful Days at the Movies | 🟢          | days/day32-beautiful-days-at-the-movies/main.go | ✅        | -      | Diferença absoluta divisível por k; reverse feito com operações aritméticas. |
 | 33  | 2025-09-17 | HR         | Utopian Tree | 🟢          | days/day33-utopian-tree/main.go | ✅        | -      | Simulação direta alternando ciclos de primavera (dobro) e verão (+1). |
 | 34  | 2025-09-18 | HR         | Strange Advertising | 🟢          | days/day34-strange-advertising/main.go | ✅        | -      | Simulação de curtidas e compartilhamentos com divisão inteira por 2. |
+| 35  | 2025-09-18 | HR         | Save the Prisoner | 🟢          | days/day35-save-the-prisoner/main.go | ✅        | -      | Aritmética modular para arranjo circular: `((s-1+m-1)%n)+1`. Solução O(1). |
 
 <!-- Continue até o dia 100... -->
 
@@ -121,6 +122,7 @@
  - [x] Dia 32: Beautiful Days at the Movies
 - [x] Dia 33: Utopian Tree
 - [x] Dia 34: Strange Advertising
+- [x] Dia 35: Save the Prisoner
 
 ### Matemática
 - [ ] Dia X: Problema Y

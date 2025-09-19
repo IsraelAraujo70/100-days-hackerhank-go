@@ -5,10 +5,10 @@
 
 ## Estatísticas
 
-- **Dias cumpridos**: 35/100
-- **Problemas resolvidos**: 35/75 (mínimo)
-- **Streak atual**: 35
-- **Última atualização**: 2025-09-18
+- **Dias cumpridos**: 36/100
+- **Problemas resolvidos**: 36/75 (mínimo)
+- **Streak atual**: 36
+- **Última atualização**: 2025-09-19
 
 ## Progresso por Dia
 
@@ -57,6 +57,7 @@
 | 33  | 2025-09-17 | HR         | Utopian Tree | 🟢          | days/day33-utopian-tree/main.go | ✅        | -      | Simulação direta alternando ciclos de primavera (dobro) e verão (+1). |
 | 34  | 2025-09-18 | HR         | Strange Advertising | 🟢          | days/day34-strange-advertising/main.go | ✅        | -      | Simulação de curtidas e compartilhamentos com divisão inteira por 2. |
 | 35  | 2025-09-18 | HR         | Save the Prisoner | 🟢          | days/day35-save-the-prisoner/main.go | ✅        | -      | Aritmética modular para arranjo circular: `((s-1+m-1)%n)+1`. Solução O(1). |
+| 36  | 2025-09-19 | HR         | Permutation Equation | 🟢          | days/day36-permutation-equation/main.go | ✅        | -      | Solução com array de posições para mapeamento eficiente de permutações. |
 
 <!-- Continue até o dia 100... -->
 
@@ -123,6 +124,7 @@
 - [x] Dia 33: Utopian Tree
 - [x] Dia 34: Strange Advertising
 - [x] Dia 35: Save the Prisoner
+- [x] Dia 36: Permutation Equation
 
 ### Matemática
 - [ ] Dia X: Problema Y

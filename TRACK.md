@@ -5,10 +5,10 @@
 
 ## Estatísticas
 
-- **Dias cumpridos**: 36/100
-- **Problemas resolvidos**: 36/75 (mínimo)
-- **Streak atual**: 36
-- **Última atualização**: 2025-09-19
+- **Dias cumpridos**: 37/100
+- **Problemas resolvidos**: 37/75 (mínimo)
+- **Streak atual**: 37
+- **Última atualização**: 2025-09-20
 
 ## Progresso por Dia
 
@@ -58,6 +58,7 @@
 | 34  | 2025-09-18 | HR         | Strange Advertising | 🟢          | days/day34-strange-advertising/main.go | ✅        | -      | Simulação de curtidas e compartilhamentos com divisão inteira por 2. |
 | 35  | 2025-09-18 | HR         | Save the Prisoner | 🟢          | days/day35-save-the-prisoner/main.go | ✅        | -      | Aritmética modular para arranjo circular: `((s-1+m-1)%n)+1`. Solução O(1). |
 | 36  | 2025-09-19 | HR         | Permutation Equation | 🟢          | days/day36-permutation-equation/main.go | ✅        | -      | Solução com array de posições para mapeamento eficiente de permutações. |
+| 37  | 2025-09-20 | HR         | Jumping on the Clouds: Revisited | 🟢          | days/day37-jumping-on-the-clouds-revisited/main.go | ✅        | -      | Simulação circular com aritmética modular para movimento em array. |
 
 <!-- Continue até o dia 100... -->
 
@@ -125,6 +126,7 @@
 - [x] Dia 34: Strange Advertising
 - [x] Dia 35: Save the Prisoner
 - [x] Dia 36: Permutation Equation
+- [x] Dia 37: Jumping on the Clouds: Revisited
 
 ### Matemática
 - [ ] Dia X: Problema Y

@@ -5,10 +5,10 @@
 
 ## Estatísticas
 
-- **Dias cumpridos**: 39/100
-- **Problemas resolvidos**: 39/75 (mínimo)
-- **Streak atual**: 39
-- **Última atualização**: 2025-09-22
+- **Dias cumpridos**: 40/100
+- **Problemas resolvidos**: 40/75 (mínimo)
+- **Streak atual**: 40
+- **Última atualização**: 2025-09-23
 
 ## Progresso por Dia
 
@@ -61,6 +61,7 @@
 | 37  | 2025-09-20 | HR         | Jumping on the Clouds: Revisited | 🟢          | days/day37-jumping-on-the-clouds-revisited/main.go | ✅        | -      | Simulação circular com aritmética modular para movimento em array. |
 | 38  | 2025-09-21 | HR         | Find Digits | 🟢          | days/day38-find-digits/main.go | ✅        | -      | Extração de dígitos com operações aritméticas e verificação de divisibilidade. |
 | 39  | 2025-09-22 | HR         | Circular Array Rotation | 🟢          | days/day39-circular-array-rotation/main.go | ✅        | -      | Rotação circular com aritmética modular: `(query - k + n) % n` para encontrar posição original. Otimização O(1) por query. |
+| 40  | 2025-09-23 | HR         | Extra Long Factorials | 🟡          | days/day40-extra-long-factorials/main.go | ✅        | -      | Usado `math/big` para calcular fatoriais grandes. Aprendizado sobre big integers em Go e métodos como `Mul` para operações in-place. |
 
 <!-- Continue até o dia 100... -->
 
@@ -131,6 +132,7 @@
 - [x] Dia 37: Jumping on the Clouds: Revisited
 - [x] Dia 38: Find Digits
 - [x] Dia 39: Circular Array Rotation
+- [x] Dia 40: Extra Long Factorials
 
 ### Matemática
 - [ ] Dia X: Problema Y

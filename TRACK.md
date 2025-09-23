@@ -5,10 +5,10 @@
 
 ## Estatísticas
 
-- **Dias cumpridos**: 38/100
-- **Problemas resolvidos**: 38/75 (mínimo)
-- **Streak atual**: 38
-- **Última atualização**: 2025-09-21
+- **Dias cumpridos**: 39/100
+- **Problemas resolvidos**: 39/75 (mínimo)
+- **Streak atual**: 39
+- **Última atualização**: 2025-09-22
 
 ## Progresso por Dia
 
@@ -60,6 +60,7 @@
 | 36  | 2025-09-19 | HR         | Permutation Equation | 🟢          | days/day36-permutation-equation/main.go | ✅        | -      | Solução com array de posições para mapeamento eficiente de permutações. |
 | 37  | 2025-09-20 | HR         | Jumping on the Clouds: Revisited | 🟢          | days/day37-jumping-on-the-clouds-revisited/main.go | ✅        | -      | Simulação circular com aritmética modular para movimento em array. |
 | 38  | 2025-09-21 | HR         | Find Digits | 🟢          | days/day38-find-digits/main.go | ✅        | -      | Extração de dígitos com operações aritméticas e verificação de divisibilidade. |
+| 39  | 2025-09-22 | HR         | Circular Array Rotation | 🟢          | days/day39-circular-array-rotation/main.go | ✅        | -      | Rotação circular com aritmética modular: `(query - k + n) % n` para encontrar posição original. Otimização O(1) por query. |
 
 <!-- Continue até o dia 100... -->
 
@@ -129,6 +130,7 @@
 - [x] Dia 36: Permutation Equation
 - [x] Dia 37: Jumping on the Clouds: Revisited
 - [x] Dia 38: Find Digits
+- [x] Dia 39: Circular Array Rotation
 
 ### Matemática
 - [ ] Dia X: Problema Y

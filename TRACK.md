@@ -5,10 +5,10 @@
 
 ## Estatísticas
 
-- **Dias cumpridos**: 41/100
-- **Problemas resolvidos**: 41/75 (mínimo)
-- **Streak atual**: 41
-- **Última atualização**: 2025-09-24
+- **Dias cumpridos**: 42/100
+- **Problemas resolvidos**: 42/75 (mínimo)
+- **Streak atual**: 42
+- **Última atualização**: 2025-09-25
 
 ## Progresso por Dia
 
@@ -63,6 +63,7 @@
 | 39  | 2025-09-22 | HR         | Circular Array Rotation | 🟢          | days/day39-circular-array-rotation/main.go | ✅        | -      | Rotação circular com aritmética modular: `(query - k + n) % n` para encontrar posição original. Otimização O(1) por query. |
 | 40  | 2025-09-23 | HR         | Extra Long Factorials | 🟡          | days/day40-extra-long-factorials/main.go | ✅        | -      | Usado `math/big` para calcular fatoriais grandes. Aprendizado sobre big integers em Go e métodos como `Mul` para operações in-place. |
 | 41  | 2025-09-24 | HR         | Append and Delete | 🟢          | days/day41-append-and-delete/main.go | ✅        | -      | Transformação de strings com operações limitadas. Estratégia de encontrar prefixo comum e desperdiçar operações extras em pares ou reconstrução completa. |
+| 42  | 2025-09-25 | HR         | Sherlock and Squares | 🟢          | days/day42-sherlock-and-squares/main.go | ✅        | -      | Abordagem matemática O(1) para contar quadrados perfeitos em um intervalo usando teto/piso da raiz quadrada. |
 
 <!-- Continue até o dia 100... -->
 
@@ -137,7 +138,7 @@
 - [x] Dia 41: Append and Delete
 
 ### Matemática
-- [ ] Dia X: Problema Y
+- [x] Dia 42: Sherlock and Squares
 
 ### Algoritmos
 - [ ] Dia X: Problema Y

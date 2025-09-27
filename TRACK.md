@@ -5,10 +5,10 @@
 
 ## Estatísticas
 
-- **Dias cumpridos**: 42/100
-- **Problemas resolvidos**: 42/75 (mínimo)
-- **Streak atual**: 42
-- **Última atualização**: 2025-09-25
+- **Dias cumpridos**: 43/100
+- **Problemas resolvidos**: 43/75 (mínimo)
+- **Streak atual**: 43
+- **Última atualização**: 2025-09-26
 
 ## Progresso por Dia
 
@@ -64,6 +64,7 @@
 | 40  | 2025-09-23 | HR         | Extra Long Factorials | 🟡          | days/day40-extra-long-factorials/main.go | ✅        | -      | Usado `math/big` para calcular fatoriais grandes. Aprendizado sobre big integers em Go e métodos como `Mul` para operações in-place. |
 | 41  | 2025-09-24 | HR         | Append and Delete | 🟢          | days/day41-append-and-delete/main.go | ✅        | -      | Transformação de strings com operações limitadas. Estratégia de encontrar prefixo comum e desperdiçar operações extras em pares ou reconstrução completa. |
 | 42  | 2025-09-25 | HR         | Sherlock and Squares | 🟢          | days/day42-sherlock-and-squares/main.go | ✅        | -      | Abordagem matemática O(1) para contar quadrados perfeitos em um intervalo usando teto/piso da raiz quadrada. |
+| 43  | 2025-09-26 | HR         | Library Fine | 🟢          | days/day43-library-fine/main.go | ✅        | -      | Lógica condicional hierárquica para diferentes tipos de penalidade de biblioteca baseada em datas. Comparação de datas com múltiplas condições. |
 
 <!-- Continue até o dia 100... -->
 
@@ -139,6 +140,7 @@
 
 ### Matemática
 - [x] Dia 42: Sherlock and Squares
+- [x] Dia 43: Library Fine
 
 ### Algoritmos
 - [ ] Dia X: Problema Y

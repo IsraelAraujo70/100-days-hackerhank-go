@@ -10,10 +10,10 @@
 
 ## Progresso
 
-- **Dias cumpridos**: 43/100
-- **Problemas resolvidos**: 43/75 (mínimo)
-- **Streak atual**: 43
-- **Última atualização**: 2025-09-26
+- **Dias cumpridos**: 44/100
+- **Problemas resolvidos**: 44/75 (mínimo)
+- **Streak atual**: 44
+- **Última atualização**: 2025-09-27
 
 [📊 Ver progresso detalhado em TRACK.md](./TRACK.md)
 
@@ -21,15 +21,15 @@
 
 | Dia | Data | Problema | Plataforma | Dificuldade | Notas |
 |-----|------|----------|------------|-------------|-------|
+| 44 | 2025-09-27 | Cut the Sticks | HackerRank | 🟢 Easy | Simulação iterativa com busca de mínimo |
 | 43 | 2025-09-26 | Library Fine | HackerRank | 🟢 Easy | Lógica condicional hierárquica para cálculo de multas |
 | 42 | 2025-09-25 | Sherlock and Squares | HackerRank | 🟢 Easy | Matemática O(1) com raiz quadrada |
 | 41 | 2025-09-24 | Append and Delete | HackerRank | 🟢 Easy | Transformação de strings com operações limitadas |
 | 40 | 2025-09-23 | Extra Long Factorials | HackerRank | 🟡 Medium | Big integers com math/big |
-| 39 | 2025-09-22 | Circular Array Rotation | HackerRank | 🟢 Easy | Aritmética modular para rotação |
 
 ## Estatísticas por Categoria
 
-### 🟢 Easy: 36 problemas
+### 🟢 Easy: 37 problemas
 ### 🟡 Medium: 7 problemas
 ### 🔴 Hard: 0 problemas
 
@@ -142,4 +142,4 @@ Este desafio não é apenas sobre resolver problemas, mas sobre:
 - **Crescimento**: Desenvolver pensamento algorítmico
 - **Perseverança**: Continuar mesmo quando difícil
 
-**Progresso atual**: 43% completo 🔥
+**Progresso atual**: 44% completo 🔥

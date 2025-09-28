@@ -5,10 +5,10 @@
 
 ## Estatísticas
 
-- **Dias cumpridos**: 43/100
-- **Problemas resolvidos**: 43/75 (mínimo)
-- **Streak atual**: 43
-- **Última atualização**: 2025-09-26
+- **Dias cumpridos**: 44/100
+- **Problemas resolvidos**: 44/75 (mínimo)
+- **Streak atual**: 44
+- **Última atualização**: 2025-09-27
 
 ## Progresso por Dia
 
@@ -65,6 +65,7 @@
 | 41  | 2025-09-24 | HR         | Append and Delete | 🟢          | days/day41-append-and-delete/main.go | ✅        | -      | Transformação de strings com operações limitadas. Estratégia de encontrar prefixo comum e desperdiçar operações extras em pares ou reconstrução completa. |
 | 42  | 2025-09-25 | HR         | Sherlock and Squares | 🟢          | days/day42-sherlock-and-squares/main.go | ✅        | -      | Abordagem matemática O(1) para contar quadrados perfeitos em um intervalo usando teto/piso da raiz quadrada. |
 | 43  | 2025-09-26 | HR         | Library Fine | 🟢          | days/day43-library-fine/main.go | ✅        | -      | Lógica condicional hierárquica para diferentes tipos de penalidade de biblioteca baseada em datas. Comparação de datas com múltiplas condições. |
+| 44  | 2025-09-27 | HR         | Cut the Sticks | 🟢          | days/day44-cut-the-sticks/main.go | ✅        | -      | Simulação iterativa com busca de mínimo por passada. Remoção de elementos zero/negativos a cada iteração. |
 
 <!-- Continue até o dia 100... -->
 
@@ -141,6 +142,7 @@
 ### Matemática
 - [x] Dia 42: Sherlock and Squares
 - [x] Dia 43: Library Fine
+- [x] Dia 44: Cut the Sticks
 
 ### Algoritmos
 - [ ] Dia X: Problema Y
